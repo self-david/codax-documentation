@@ -22,6 +22,8 @@ Detector de Errores: No solo detectamos errores en la ejecución del programa, s
 
 Orientación sobre Errores: Cuando cometes un error, Codax no solo te señala dónde está, sino que también te explica por qué ocurrió y cómo solucionarlo. Obtén orientación práctica para mejorar constantemente.
 
+diagrama: en tiempo real puede ver como se crea el diagrama de flujo de tu codigo, esto te facilitara al ver la direccion del flujo de dicho codigo.
+
 ### ¿Que nos diferencia de otras herramientas?
 A diferencia de plataformas como Scratch o Blockly, Codax permite a los estudiantes escribir código real desde el principio, proporcionando una transición más efectiva hacia lenguajes de programación de la industria. No te limites a arrastrar y soltar; sumérgete en el mundo real de la programación con Codax.
 
