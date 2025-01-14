@@ -1,0 +1,38 @@
+---
+sidebar_position: 1
+---
+
+import BrowserWindow from '@site/src/components/BrowserWindow';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Posicion
+
+Este método toma un valor entero y devuelve una nueva `cadena` que consta de la única unidad de código UTF-16 ubicada en el desplazamiento especificado. Este método permite números enteros positivos y negativos. Los enteros negativos cuentan hacia atrás desde el último carácter de `cadena`.
+
+## Ejemplo📝
+
+
+```dummy
+var texto = "Hola, este es un ejemplo de texto";
+
+var pos = 7;
+var resultado = texto.posicion(pos);
+
+imprimir("El carácter en la posición " + posic + " es: " + resultado);
+imprimir("El ultimo carácter es: " + texto.posicion(-1));
+```
+Salida:
+```dummy
+// El carácter en la posición 7 es: e
+// El ultimo carácter es: o
+```
+En este ejemplo, estamos utilizando el método posicion() para acceder al carácter en la posición especificada (en este caso, la posición 7) en la cadena de texto,
+y al pasarle un numero negativo hace la busqueda al revez por lo que comienza a buscar por el ultimo caracter
+
+## Sintaxis🔤
+
+```js
+posicion(indice)
+```
+
