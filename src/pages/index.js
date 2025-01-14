@@ -99,7 +99,7 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              href='https://github.com/self-david/dummy-code-documentation/releases/download/education/Dummy.Code.Setup.1.0.0.exe'>
+              href='https://github.com/self-david/codax-documentation/releases/download/education/codax.v1.0.0.exe'>
                 Descargar aplicacion
             </a>
           </div>
