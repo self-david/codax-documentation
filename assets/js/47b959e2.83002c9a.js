@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodax_documentation=self.webpackChunkcodax_documentation||[]).push([[1029],{6448:e=>{e.exports=JSON.parse('{"title":"Mate","slug":"/category/mate","permalink":"/methods/category/mate","navigation":{"previous":{"title":"aTexto","permalink":"/methods/fecha/aTexto"},"next":{"title":"asen","permalink":"/methods/Mate/asen"}}}')}}]);

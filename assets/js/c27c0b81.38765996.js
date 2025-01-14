@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodax_documentation=self.webpackChunkcodax_documentation||[]).push([[3117],{1464:e=>{e.exports=JSON.parse('{"title":"Fecha","slug":"/category/fecha","permalink":"/methods/category/fecha","navigation":{"previous":{"title":"aTexto","permalink":"/methods/Numero/aTexto"},"next":{"title":"obtenerFecha","permalink":"/methods/fecha/obtenerFecha"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodax_documentation=self.webpackChunkcodax_documentation||[]).push([[3406],{6813:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"reservedWords"}')}}]);
