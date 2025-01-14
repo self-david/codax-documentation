@@ -4541,6 +4541,33 @@ __metadata:
   languageName: node
   linkType: hard
 
+"codax-documentation@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "codax-documentation@workspace:."
+  dependencies:
+    "@babel/eslint-parser": ^7.18.2
+    "@docusaurus/core": 2.4.1
+    "@docusaurus/preset-classic": 2.4.1
+    "@docusaurus/remark-plugin-npm2yarn": ^2.4.1
+    "@docusaurus/theme-common": ^2.4.1
+    "@mdx-js/react": ^1.6.22
+    "@supabase/supabase-js": ^2.38.4
+    clsx: ^1.2.1
+    eslint: ^8.19.0
+    eslint-config-airbnb: ^19.0.4
+    eslint-config-prettier: ^8.5.0
+    eslint-plugin-header: ^3.1.1
+    eslint-plugin-import: ^2.26.0
+    eslint-plugin-jsx-a11y: ^6.6.0
+    eslint-plugin-react: ^7.30.1
+    eslint-plugin-react-hooks: ^4.6.0
+    prettier: ^2.7.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    stylelint: ^14.9.1
+  languageName: unknown
+  linkType: soft
+
 "collapse-white-space@npm:^1.0.2":
   version: 1.0.6
   resolution: "collapse-white-space@npm:1.0.6"
@@ -5442,33 +5469,6 @@ __metadata:
   checksum: d5775790093c234ef4bfd5fbe40884ff7e6c87573e5339432870616331189f7f5d86575c5b5af2dcf0f61172990f4f734d07844b1f23482fff09e3c4bead05ea
   languageName: node
   linkType: hard
-
-"dummy-code-documentation@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "dummy-code-documentation@workspace:."
-  dependencies:
-    "@babel/eslint-parser": ^7.18.2
-    "@docusaurus/core": 2.4.1
-    "@docusaurus/preset-classic": 2.4.1
-    "@docusaurus/remark-plugin-npm2yarn": ^2.4.1
-    "@docusaurus/theme-common": ^2.4.1
-    "@mdx-js/react": ^1.6.22
-    "@supabase/supabase-js": ^2.38.4
-    clsx: ^1.2.1
-    eslint: ^8.19.0
-    eslint-config-airbnb: ^19.0.4
-    eslint-config-prettier: ^8.5.0
-    eslint-plugin-header: ^3.1.1
-    eslint-plugin-import: ^2.26.0
-    eslint-plugin-jsx-a11y: ^6.6.0
-    eslint-plugin-react: ^7.30.1
-    eslint-plugin-react-hooks: ^4.6.0
-    prettier: ^2.7.1
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    stylelint: ^14.9.1
-  languageName: unknown
-  linkType: soft
 
 "duplexer3@npm:^0.1.4":
   version: 0.1.5

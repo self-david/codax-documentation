@@ -6,7 +6,7 @@ module.exports = async function createConfigAsync() {
     title: 'Bienvenido a Codax',
     tagline: 'Explora la plataforma de aprendizaje de programación en español que te lleva lleva de la mano desde principiante y da el primer paso hacia una emocionante carrera. ¡Comienza tu viaje hoy mismo con Codax!',
     organizationName: 'self-david',
-    projectName: 'dummy-code-documentation',
+    projectName: 'codax-documentation',
     baseUrl: '/',
     baseUrlIssueBanner: true,
     url: 'https://self-david.github.io/',
@@ -81,7 +81,7 @@ module.exports = async function createConfigAsync() {
             sidebarPath: require.resolve('./sidebars.js'),
             // Please change this to your repo.
             // Remove this to remove the "edit this page" links.
-            editUrl: 'https://github.com/self-david/dummy-code-documentation/tree/main/',
+            editUrl: 'https://github.com/self-david/codax-documentation/tree/main/',
             routeBasePath: '/methods',
             // routeBasePath: '/',
             // path: 'docs',
@@ -96,7 +96,7 @@ module.exports = async function createConfigAsync() {
             showReadingTime: true,
             // Please change this to your repo.
             // Remove this to remove the "edit this page" links.
-            editUrl: 'https://github.com/self-david/dummy-code-documentation/tree/main/',
+            editUrl: 'https://github.com/self-david/codax-documentation/tree/main/',
 
             postsPerPage: 5,
             blogSidebarCount: 'ALL',
@@ -155,7 +155,7 @@ module.exports = async function createConfigAsync() {
           // {to: 'blog', label: 'blog', position: 'left'}, // hidden
           // Please keep GitHub link to the right for consistency.
           {
-            href: 'https://github.com/self-david/dummy-code-documentation',
+            href: 'https://github.com/self-david/codax-documentation',
             label: 'GitHub',
             position: 'right',
           },
@@ -209,7 +209,7 @@ module.exports = async function createConfigAsync() {
           // This default includes a positive & negative version, allowing for
           // appropriate use depending on your site's style.
           src: '/img/logo2.svg',
-          href: 'https://dummycode.qahub.dev',
+          href: 'https://codax.davidga.dev',
         },
         copyright: 'Copyright © 2023 Codax.',
       },

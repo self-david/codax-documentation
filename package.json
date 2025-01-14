@@ -1,11 +1,11 @@
 {
-  "name": "dummy-code-documentation",
+  "name": "codax-documentation",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build && echo dummycode.qahub.dev > build/CNAME",
+    "build": "docusaurus build && echo codax.davidga.dev > build/CNAME",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
